@@ -1,0 +1,28 @@
+paths:
+  training_data: data/raw/initial_claims_training_data.csv
+  batch_input: data/raw/new_claims_for_batch_scoring.csv
+  model_path: models/fraud_model.pkl
+  scored_output: data/scored/fraud_scored_output.csv
+  metrics_report: reports/model_metrics.json
+  batch_summary: reports/batch_summary.json
+  monitoring_report: reports/model_monitoring_report.json
+
+model:
+  fraud_threshold: 0.70
+  medium_risk_threshold: 0.40
+  random_state: 42
+
+features:
+  numeric:
+    - claim_amount
+    - customer_age
+    - policy_tenure_days
+    - claim_frequency_12m
+    - previous_fraud_flag
+    - agent_risk_score
+    - late_night_claim
+  categorical:
+    - region
+    - product_type
+
+target: fraud_label

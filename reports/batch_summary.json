@@ -1,0 +1,14 @@
+{
+  "run_time": "2026-05-04T14:16:20.170784",
+  "input_rows": 200,
+  "output_rows": 200,
+  "high_risk_count": 28,
+  "medium_risk_count": 44,
+  "low_risk_count": 128,
+  "average_fraud_probability": 0.359769,
+  "validation_summary": {
+    "row_count": 200,
+    "duplicate_claim_ids": 0,
+    "missing_values_total": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "rows_scored": 200,
+  "avg_fraud_probability": 0.359769,
+  "max_fraud_probability": 0.8666,
+  "high_risk_rate": 0.14,
+  "medium_risk_rate": 0.22,
+  "low_risk_rate": 0.64,
+  "records_by_region": {
+    "Central": 33,
+    "East": 42,
+    "North": 35,
+    "South": 48,
+    "West": 42
+  },
+  "high_risk_by_region": {
+    "Central": 4,
+    "East": 4,
+    "North": 5,
+    "South": 10,
+    "West": 5
+  },
+  "records_by_product": {
+    "Accident": 19,
+    "Dental": 72,
+    "Extended Benefits": 54,
+    "Health": 55
+  },
+  "recommended_action": "Review high-risk claims first. Investigate drift if high_risk_rate changes sharply over time."
+}
