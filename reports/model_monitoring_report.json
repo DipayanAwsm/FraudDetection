@@ -1,10 +1,10 @@
 {
   "rows_scored": 200,
-  "avg_fraud_probability": 0.359769,
-  "max_fraud_probability": 0.8666,
+  "avg_fraud_probability": 0.360394,
+  "max_fraud_probability": 0.8623,
   "high_risk_rate": 0.14,
-  "medium_risk_rate": 0.22,
-  "low_risk_rate": 0.64,
+  "medium_risk_rate": 0.215,
+  "low_risk_rate": 0.645,
   "records_by_region": {
     "Central": 33,
     "East": 42,
@@ -14,8 +14,8 @@
   },
   "high_risk_by_region": {
     "Central": 4,
-    "East": 4,
-    "North": 5,
+    "East": 3,
+    "North": 6,
     "South": 10,
     "West": 5
   },

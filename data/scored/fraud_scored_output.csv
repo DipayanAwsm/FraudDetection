@@ -1,201 +1,201 @@
 claim_id,customer_id,claim_amount,customer_age,policy_tenure_days,claim_frequency_12m,previous_fraud_flag,agent_risk_score,late_night_claim,region,product_type,fraud_probability,fraud_flag,risk_level,score_date,model_version
-NEWCLM200000,CUST7986,8617.9,67,3,0,0,0.333,0,Central,Dental,0.5327,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200001,CUST2148,3909.92,65,132,0,0,0.286,0,East,Extended Benefits,0.1619,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200002,CUST8339,2159.64,37,120,3,0,0.166,0,Central,Extended Benefits,0.3758,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200003,CUST7283,9066.53,50,95,1,1,0.271,0,East,Dental,0.8666,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200004,CUST9815,8728.34,28,74,3,0,0.074,0,North,Extended Benefits,0.6975,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200005,CUST7833,6696.55,72,130,0,0,0.432,1,West,Dental,0.7263,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200006,CUST1260,4154.87,30,160,0,0,0.582,0,West,Health,0.3249,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200007,CUST4104,4595.71,26,143,1,0,0.104,0,Central,Dental,0.2965,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200008,CUST8860,7628.15,42,173,2,0,0.185,0,West,Accident,0.4187,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200009,CUST6249,2528.93,69,146,2,0,0.295,1,South,Dental,0.3468,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200010,CUST3047,3836.24,65,108,1,0,0.43,0,West,Dental,0.193,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200011,CUST9352,3340.13,34,16,2,0,0.281,0,East,Dental,0.1858,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200012,CUST1928,4734.97,50,129,1,0,0.07,0,Central,Dental,0.3887,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200013,CUST4417,3914.43,34,119,3,0,0.349,1,Central,Extended Benefits,0.5904,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200014,CUST2865,1359.88,22,59,3,0,0.309,0,North,Extended Benefits,0.1454,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200015,CUST9967,4302.3,56,22,0,0,0.48,0,West,Accident,0.3136,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200016,CUST7892,8300.7,44,112,1,0,0.247,0,North,Dental,0.512,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200000,CUST7986,8617.9,67,3,0,0,0.333,0,Central,Dental,0.5346,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200001,CUST2148,3909.92,65,132,0,0,0.286,0,East,Extended Benefits,0.165,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200002,CUST8339,2159.64,37,120,3,0,0.166,0,Central,Extended Benefits,0.3864,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200003,CUST7283,9066.53,50,95,1,1,0.271,0,East,Dental,0.8623,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200004,CUST9815,8728.34,28,74,3,0,0.074,0,North,Extended Benefits,0.7128,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200005,CUST7833,6696.55,72,130,0,0,0.432,1,West,Dental,0.7291,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200006,CUST1260,4154.87,30,160,0,0,0.582,0,West,Health,0.326,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200007,CUST4104,4595.71,26,143,1,0,0.104,0,Central,Dental,0.2996,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200008,CUST8860,7628.15,42,173,2,0,0.185,0,West,Accident,0.4184,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200009,CUST6249,2528.93,69,146,2,0,0.295,1,South,Dental,0.344,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200010,CUST3047,3836.24,65,108,1,0,0.43,0,West,Dental,0.1953,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200011,CUST9352,3340.13,34,16,2,0,0.281,0,East,Dental,0.1857,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200012,CUST1928,4734.97,50,129,1,0,0.07,0,Central,Dental,0.3957,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200013,CUST4417,3914.43,34,119,3,0,0.349,1,Central,Extended Benefits,0.5918,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200014,CUST2865,1359.88,22,59,3,0,0.309,0,North,Extended Benefits,0.1383,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200015,CUST9967,4302.3,56,22,0,0,0.48,0,West,Accident,0.3167,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200016,CUST7892,8300.7,44,112,1,0,0.247,0,North,Dental,0.5068,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200017,CUST8357,1031.06,54,130,1,0,0.283,0,Central,Extended Benefits,0.1114,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200018,CUST7996,6594.41,51,75,0,0,0.292,0,East,Health,0.4116,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200019,CUST4531,5601.99,60,45,2,0,0.566,1,Central,Health,0.5584,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200020,CUST8392,3873.32,73,32,4,0,0.255,0,East,Dental,0.2512,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200021,CUST6622,1266.19,28,172,2,0,0.196,0,West,Accident,0.1347,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200022,CUST3745,5523.64,66,109,0,1,0.304,1,South,Health,0.6416,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200018,CUST7996,6594.41,51,75,0,0,0.292,0,East,Health,0.4099,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200019,CUST4531,5601.99,60,45,2,0,0.566,1,Central,Health,0.5563,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200020,CUST8392,3873.32,73,32,4,0,0.255,0,East,Dental,0.2522,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200021,CUST6622,1266.19,28,172,2,0,0.196,0,West,Accident,0.1297,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200022,CUST3745,5523.64,66,109,0,1,0.304,1,South,Health,0.6375,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200023,CUST1600,2481.11,63,77,2,0,0.279,0,West,Dental,0.1445,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200024,CUST9669,7665.47,71,23,2,0,0.118,0,South,Health,0.6354,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200025,CUST8026,6521.49,40,90,1,0,0.139,0,South,Health,0.3819,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200024,CUST9669,7665.47,71,23,2,0,0.118,0,South,Health,0.6339,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200025,CUST8026,6521.49,40,90,1,0,0.139,0,South,Health,0.3788,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200026,CUST3747,3933.12,67,76,3,0,0.249,1,South,Health,0.7701,Fraud Risk,High,2026-05-04,fraud_model_v1
 NEWCLM200027,CUST2167,2227.06,61,100,2,0,0.363,0,South,Accident,0.224,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200028,CUST7677,2239.22,46,1,0,0,0.425,0,North,Health,0.1504,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200029,CUST7371,2492.35,71,179,0,0,0.4,0,Central,Dental,0.2242,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200030,CUST7269,1300.57,36,106,0,0,0.552,1,South,Dental,0.2078,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200031,CUST3433,2814.7,41,37,0,0,0.433,1,Central,Extended Benefits,0.6247,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200032,CUST2120,4492.16,59,25,3,0,0.255,0,West,Dental,0.4354,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200028,CUST7677,2239.22,46,1,0,0,0.425,0,North,Health,0.147,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200029,CUST7371,2492.35,71,179,0,0,0.4,0,Central,Dental,0.2268,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200030,CUST7269,1300.57,36,106,0,0,0.552,1,South,Dental,0.213,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200031,CUST3433,2814.7,41,37,0,0,0.433,1,Central,Extended Benefits,0.6281,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200032,CUST2120,4492.16,59,25,3,0,0.255,0,West,Dental,0.4367,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200033,CUST4420,1063.32,27,28,1,1,0.482,0,Central,Health,0.115,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200034,CUST2841,2265.33,46,34,1,0,0.265,0,South,Health,0.3571,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200035,CUST8455,2116.47,31,165,1,0,0.356,0,North,Dental,0.0874,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200036,CUST8035,3457.03,29,71,0,0,0.098,1,South,Dental,0.1019,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200037,CUST4572,4471.22,70,26,1,0,0.269,0,West,Health,0.231,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200038,CUST5468,4012.94,51,131,1,0,0.366,0,East,Extended Benefits,0.2469,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200039,CUST1995,4589.07,65,78,2,0,0.355,1,South,Dental,0.7323,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200040,CUST7190,5259.63,33,123,0,0,0.089,1,West,Extended Benefits,0.2932,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200041,CUST9554,2309.44,60,148,2,0,0.326,0,Central,Extended Benefits,0.1875,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200039,CUST1995,4589.07,65,78,2,0,0.355,1,South,Dental,0.7369,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200040,CUST7190,5259.63,33,123,0,0,0.089,1,West,Extended Benefits,0.2979,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200041,CUST9554,2309.44,60,148,2,0,0.326,0,Central,Extended Benefits,0.1904,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200042,CUST7493,2647.05,58,27,1,0,0.22,0,South,Dental,0.1324,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200043,CUST9717,5805.82,54,31,3,0,0.337,1,North,Health,0.7649,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200044,CUST7376,6930.93,51,178,1,0,0.168,0,East,Health,0.6937,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200045,CUST7168,1771.27,72,101,1,1,0.409,1,North,Extended Benefits,0.1832,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200046,CUST4854,1903.53,33,87,4,0,0.357,0,West,Health,0.306,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200047,CUST2646,4106.17,34,39,0,0,0.208,1,East,Health,0.2327,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200048,CUST2759,3373.12,69,149,1,0,0.212,0,South,Extended Benefits,0.1791,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200043,CUST9717,5805.82,54,31,3,0,0.337,1,North,Health,0.7651,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200044,CUST7376,6930.93,51,178,1,0,0.168,0,East,Health,0.697,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200045,CUST7168,1771.27,72,101,1,1,0.409,1,North,Extended Benefits,0.1844,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200046,CUST4854,1903.53,33,87,4,0,0.357,0,West,Health,0.3136,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200047,CUST2646,4106.17,34,39,0,0,0.208,1,East,Health,0.2295,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200048,CUST2759,3373.12,69,149,1,0,0.212,0,South,Extended Benefits,0.1837,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200049,CUST9154,2162.5,74,163,1,0,0.112,0,South,Health,0.1494,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200050,CUST2990,1692.33,43,72,2,0,0.431,0,Central,Dental,0.2156,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200051,CUST4394,1594.01,46,125,0,0,0.474,0,Central,Extended Benefits,0.1391,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200052,CUST4701,8297.56,50,96,1,0,0.365,0,West,Health,0.5855,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200050,CUST2990,1692.33,43,72,2,0,0.431,0,Central,Dental,0.2148,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200051,CUST4394,1594.01,46,125,0,0,0.474,0,Central,Extended Benefits,0.1433,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200052,CUST4701,8297.56,50,96,1,0,0.365,0,West,Health,0.5802,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200053,CUST4556,6825.19,47,31,1,0,0.342,1,North,Health,0.4278,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200054,CUST2021,10155.41,36,17,0,0,0.442,1,South,Health,0.8299,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200054,CUST2021,10155.41,36,17,0,0,0.442,1,South,Health,0.8315,Fraud Risk,High,2026-05-04,fraud_model_v1
 NEWCLM200055,CUST6625,1930.39,32,62,1,0,0.198,0,Central,Dental,0.09,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200056,CUST4600,6074.71,64,28,1,0,0.106,0,North,Extended Benefits,0.3182,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200057,CUST1345,4714.41,66,25,5,0,0.317,0,West,Health,0.4237,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200056,CUST4600,6074.71,64,28,1,0,0.106,0,North,Extended Benefits,0.3189,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200057,CUST1345,4714.41,66,25,5,0,0.317,0,West,Health,0.4233,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200058,CUST1005,9516.31,22,122,1,0,0.208,1,East,Extended Benefits,0.7892,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200059,CUST8112,2595.51,60,177,0,0,0.552,0,East,Dental,0.1607,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200060,CUST6124,4579.78,57,145,2,0,0.083,0,North,Dental,0.5429,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200059,CUST8112,2595.51,60,177,0,0,0.552,0,East,Dental,0.162,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200060,CUST6124,4579.78,57,145,2,0,0.083,0,North,Dental,0.5416,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200061,CUST4440,695.97,48,159,1,0,0.359,0,West,Health,0.151,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200062,CUST9932,528.36,57,32,2,0,0.133,0,East,Health,0.2404,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200063,CUST5926,2326.08,63,134,0,0,0.373,1,West,Extended Benefits,0.3875,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200064,CUST5737,4059.61,23,4,2,0,0.034,0,West,Health,0.2371,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200064,CUST5737,4059.61,23,4,2,0,0.034,0,West,Health,0.234,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200065,CUST3782,2998.52,47,162,0,0,0.27,0,North,Accident,0.0878,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200066,CUST4343,5822.91,49,129,3,0,0.251,0,North,Dental,0.6205,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200067,CUST8805,6518.64,68,46,2,0,0.121,0,North,Dental,0.4379,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200068,CUST8560,3651.75,50,130,2,0,0.365,0,East,Extended Benefits,0.2918,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200069,CUST1077,3538.21,71,136,0,0,0.673,0,West,Extended Benefits,0.212,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200070,CUST8714,2828.51,27,86,1,0,0.308,1,South,Extended Benefits,0.1572,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200071,CUST1814,5501.09,55,13,1,1,0.461,0,Central,Dental,0.7754,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200072,CUST5869,4258.78,35,77,1,0,0.13,0,Central,Health,0.2287,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200073,CUST7090,11780.81,68,81,1,0,0.263,0,West,Health,0.5186,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200074,CUST5488,2648.75,30,104,1,0,0.405,0,South,Extended Benefits,0.1744,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200066,CUST4343,5822.91,49,129,3,0,0.251,0,North,Dental,0.6184,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200067,CUST8805,6518.64,68,46,2,0,0.121,0,North,Dental,0.4363,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200068,CUST8560,3651.75,50,130,2,0,0.365,0,East,Extended Benefits,0.2917,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200069,CUST1077,3538.21,71,136,0,0,0.673,0,West,Extended Benefits,0.2114,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200070,CUST8714,2828.51,27,86,1,0,0.308,1,South,Extended Benefits,0.1525,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200071,CUST1814,5501.09,55,13,1,1,0.461,0,Central,Dental,0.7758,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200072,CUST5869,4258.78,35,77,1,0,0.13,0,Central,Health,0.2256,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200073,CUST7090,11780.81,68,81,1,0,0.263,0,West,Health,0.5282,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200074,CUST5488,2648.75,30,104,1,0,0.405,0,South,Extended Benefits,0.1788,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200075,CUST2887,2490.54,24,135,1,0,0.14,0,East,Health,0.0931,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200076,CUST7893,7461.34,48,155,3,0,0.279,1,North,Extended Benefits,0.8459,Fraud Risk,High,2026-05-04,fraud_model_v1
 NEWCLM200077,CUST4644,2181.95,73,121,0,0,0.084,0,North,Extended Benefits,0.0915,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200078,CUST6966,1564.97,50,113,2,0,0.163,0,South,Extended Benefits,0.2238,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200079,CUST1717,10585.84,38,142,1,0,0.23,0,Central,Dental,0.7575,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200080,CUST9415,4993.57,60,11,0,1,0.225,1,South,Health,0.7154,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200081,CUST4744,801.26,29,173,2,0,0.372,0,East,Health,0.1586,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200082,CUST4476,2687.27,44,171,2,0,0.683,0,Central,Extended Benefits,0.1939,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200083,CUST7966,3611.61,43,95,3,1,0.19,0,Central,Health,0.4825,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200084,CUST1823,1478.42,46,72,0,0,0.536,0,North,Dental,0.085,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200085,CUST7197,4885.89,38,99,2,0,0.376,0,West,Extended Benefits,0.4836,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200086,CUST6759,3636.8,35,23,0,0,0.28,0,South,Extended Benefits,0.4568,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200087,CUST8245,7010.04,24,11,1,0,0.244,0,South,Dental,0.3187,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200079,CUST1717,10585.84,38,142,1,0,0.23,0,Central,Dental,0.7566,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200080,CUST9415,4993.57,60,11,0,1,0.225,1,South,Health,0.7161,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200081,CUST4744,801.26,29,173,2,0,0.372,0,East,Health,0.1636,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200082,CUST4476,2687.27,44,171,2,0,0.683,0,Central,Extended Benefits,0.1952,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200083,CUST7966,3611.61,43,95,3,1,0.19,0,Central,Health,0.5002,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200084,CUST1823,1478.42,46,72,0,0,0.536,0,North,Dental,0.0879,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200085,CUST7197,4885.89,38,99,2,0,0.376,0,West,Extended Benefits,0.4923,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200086,CUST6759,3636.8,35,23,0,0,0.28,0,South,Extended Benefits,0.4565,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200087,CUST8245,7010.04,24,11,1,0,0.244,0,South,Dental,0.3216,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200088,CUST3590,1465.12,69,165,0,0,0.017,0,West,Dental,0.0923,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200089,CUST5757,5003.26,24,134,0,0,0.282,0,Central,Accident,0.3084,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200090,CUST4763,5448.02,73,167,2,0,0.465,0,South,Dental,0.3657,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200091,CUST6971,9303.06,46,173,0,0,0.181,0,Central,Extended Benefits,0.3743,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200092,CUST1189,4375.21,40,167,0,0,0.417,0,South,Extended Benefits,0.2633,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200093,CUST6675,871.63,29,145,4,0,0.565,0,West,Extended Benefits,0.1661,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200094,CUST1775,4937.0,25,149,1,0,0.109,1,West,Health,0.2835,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200090,CUST4763,5448.02,73,167,2,0,0.465,0,South,Dental,0.3671,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200091,CUST6971,9303.06,46,173,0,0,0.181,0,Central,Extended Benefits,0.3791,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200092,CUST1189,4375.21,40,167,0,0,0.417,0,South,Extended Benefits,0.264,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200093,CUST6675,871.63,29,145,4,0,0.565,0,West,Extended Benefits,0.1692,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200094,CUST1775,4937.0,25,149,1,0,0.109,1,West,Health,0.2865,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200095,CUST3731,2361.67,42,81,1,0,0.216,0,East,Health,0.1597,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200096,CUST4432,3218.39,74,171,1,0,0.464,1,West,Health,0.7418,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200096,CUST4432,3218.39,74,171,1,0,0.464,1,West,Health,0.7468,Fraud Risk,High,2026-05-04,fraud_model_v1
 NEWCLM200097,CUST9172,3072.92,69,108,4,0,0.053,1,East,Extended Benefits,0.6605,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200098,CUST3733,5096.16,62,21,0,0,0.559,0,East,Health,0.469,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200099,CUST1688,6061.38,45,107,4,0,0.069,0,North,Health,0.3302,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200100,CUST6334,2898.76,35,109,1,0,0.315,1,South,Health,0.349,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200101,CUST7776,4052.89,70,159,2,0,0.094,0,South,Dental,0.1691,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200102,CUST7881,6404.03,73,110,3,1,0.466,0,East,Dental,0.8043,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200103,CUST8901,4315.37,55,89,1,0,0.432,1,North,Dental,0.2962,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200098,CUST3733,5096.16,62,21,0,0,0.559,0,East,Health,0.4644,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200099,CUST1688,6061.38,45,107,4,0,0.069,0,North,Health,0.3327,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200100,CUST6334,2898.76,35,109,1,0,0.315,1,South,Health,0.3446,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200101,CUST7776,4052.89,70,159,2,0,0.094,0,South,Dental,0.1654,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200102,CUST7881,6404.03,73,110,3,1,0.466,0,East,Dental,0.8164,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200103,CUST8901,4315.37,55,89,1,0,0.432,1,North,Dental,0.2991,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200104,CUST6726,2886.21,44,118,2,0,0.171,0,South,Dental,0.1173,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200105,CUST9754,3380.55,35,72,2,0,0.365,1,Central,Accident,0.3835,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200105,CUST9754,3380.55,35,72,2,0,0.365,1,Central,Accident,0.3768,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200106,CUST8326,2090.3,57,92,1,0,0.31,0,East,Dental,0.3072,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200107,CUST8869,4830.21,42,163,1,1,0.527,1,South,Accident,0.842,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200108,CUST5612,5546.76,48,146,1,1,0.397,0,North,Dental,0.8485,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200109,CUST9609,2897.59,61,150,3,0,0.229,0,Central,Extended Benefits,0.634,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200107,CUST8869,4830.21,42,163,1,1,0.527,1,South,Accident,0.8349,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200108,CUST5612,5546.76,48,146,1,1,0.397,0,North,Dental,0.8541,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200109,CUST9609,2897.59,61,150,3,0,0.229,0,Central,Extended Benefits,0.6346,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200110,CUST7809,1972.93,58,39,2,0,0.101,0,East,Extended Benefits,0.2093,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200111,CUST3681,2691.99,63,169,5,0,0.452,0,East,Extended Benefits,0.6585,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200111,CUST3681,2691.99,63,169,5,0,0.452,0,East,Extended Benefits,0.6561,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200112,CUST4335,3604.48,64,137,1,0,0.075,1,West,Accident,0.1609,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200113,CUST1760,1900.53,58,64,1,0,0.067,0,South,Extended Benefits,0.1788,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200114,CUST9434,5516.54,57,166,1,0,0.25,0,West,Accident,0.3483,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200115,CUST5413,3376.61,54,103,2,0,0.26,0,North,Dental,0.1425,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200116,CUST8186,5604.91,40,24,0,0,0.181,0,East,Health,0.3833,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200117,CUST6959,4960.19,44,76,0,0,0.292,0,East,Dental,0.3511,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200118,CUST3713,7204.26,43,151,1,0,0.336,0,North,Dental,0.5514,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200114,CUST9434,5516.54,57,166,1,0,0.25,0,West,Accident,0.3507,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200115,CUST5413,3376.61,54,103,2,0,0.26,0,North,Dental,0.1461,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200116,CUST8186,5604.91,40,24,0,0,0.181,0,East,Health,0.3807,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200117,CUST6959,4960.19,44,76,0,0,0.292,0,East,Dental,0.3484,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200118,CUST3713,7204.26,43,151,1,0,0.336,0,North,Dental,0.5505,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200119,CUST9208,1803.55,72,63,0,0,0.209,0,West,Extended Benefits,0.1158,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200120,CUST1133,4053.7,40,87,2,0,0.257,0,East,Extended Benefits,0.2465,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200121,CUST9527,1610.19,35,12,0,0,0.237,1,East,Accident,0.171,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200122,CUST6134,4453.16,71,61,1,0,0.282,0,North,Health,0.1767,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200123,CUST6172,591.77,37,15,3,0,0.048,0,North,Health,0.144,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200124,CUST9577,4089.4,35,126,0,0,0.4,0,East,Dental,0.3108,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200125,CUST5208,3803.39,41,144,1,0,0.536,0,South,Dental,0.1594,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200123,CUST6172,591.77,37,15,3,0,0.048,0,North,Health,0.1414,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200124,CUST9577,4089.4,35,126,0,0,0.4,0,East,Dental,0.31,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200125,CUST5208,3803.39,41,144,1,0,0.536,0,South,Dental,0.1632,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200126,CUST1094,939.92,72,154,2,0,0.333,0,South,Health,0.1748,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200127,CUST9322,2675.64,70,61,0,0,0.119,0,North,Health,0.0779,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200128,CUST3472,6578.9,37,137,0,0,0.069,0,North,Dental,0.3754,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200129,CUST7694,3851.72,23,83,2,0,0.474,0,West,Accident,0.5096,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200130,CUST7172,4760.31,32,44,1,0,0.567,1,West,Dental,0.7694,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200128,CUST3472,6578.9,37,137,0,0,0.069,0,North,Dental,0.3751,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200129,CUST7694,3851.72,23,83,2,0,0.474,0,West,Accident,0.5095,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200130,CUST7172,4760.31,32,44,1,0,0.567,1,West,Dental,0.7677,Fraud Risk,High,2026-05-04,fraud_model_v1
 NEWCLM200131,CUST7882,1157.39,72,90,0,0,0.082,0,West,Dental,0.0742,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200132,CUST1853,1989.0,23,79,2,0,0.231,0,East,Dental,0.1526,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200133,CUST4030,1105.65,45,19,2,1,0.274,0,East,Dental,0.1809,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200133,CUST4030,1105.65,45,19,2,1,0.274,0,East,Dental,0.1771,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200134,CUST2693,2213.56,32,163,1,0,0.303,0,South,Dental,0.1047,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200135,CUST8629,5315.8,55,173,2,0,0.292,1,South,Health,0.7409,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200136,CUST7981,8266.35,34,71,3,0,0.098,0,West,Dental,0.8182,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200137,CUST3961,6829.61,49,76,3,0,0.272,0,West,Extended Benefits,0.7885,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200138,CUST4517,5354.36,33,135,1,0,0.21,0,East,Dental,0.359,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200139,CUST3079,4870.14,72,45,2,0,0.184,0,Central,Accident,0.4011,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200135,CUST8629,5315.8,55,173,2,0,0.292,1,South,Health,0.7391,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200136,CUST7981,8266.35,34,71,3,0,0.098,0,West,Dental,0.8249,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200137,CUST3961,6829.61,49,76,3,0,0.272,0,West,Extended Benefits,0.7895,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200138,CUST4517,5354.36,33,135,1,0,0.21,0,East,Dental,0.3614,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200139,CUST3079,4870.14,72,45,2,0,0.184,0,Central,Accident,0.3966,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200140,CUST7988,1833.45,72,177,0,0,0.308,0,East,Extended Benefits,0.1452,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200141,CUST6177,3705.26,21,95,0,0,0.386,0,East,Dental,0.2055,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200142,CUST2581,3491.21,70,109,0,0,0.043,0,South,Extended Benefits,0.1765,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200143,CUST5849,3714.06,31,35,4,0,0.375,0,East,Dental,0.663,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200144,CUST5748,7026.14,46,141,3,0,0.353,0,South,Health,0.7463,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200145,CUST1206,4311.75,67,152,2,0,0.388,0,East,Extended Benefits,0.3407,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200146,CUST3190,6740.92,43,169,1,0,0.137,0,South,Health,0.4309,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200147,CUST2409,12185.22,65,70,1,0,0.366,0,North,Dental,0.4531,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200143,CUST5849,3714.06,31,35,4,0,0.375,0,East,Dental,0.6657,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200144,CUST5748,7026.14,46,141,3,0,0.353,0,South,Health,0.7488,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200145,CUST1206,4311.75,67,152,2,0,0.388,0,East,Extended Benefits,0.3464,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200146,CUST3190,6740.92,43,169,1,0,0.137,0,South,Health,0.428,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200147,CUST2409,12185.22,65,70,1,0,0.366,0,North,Dental,0.4553,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200148,CUST8400,1369.38,45,138,2,0,0.215,0,West,Extended Benefits,0.1726,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200149,CUST7506,835.12,30,158,1,0,0.334,1,West,Accident,0.2157,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200150,CUST1663,385.08,68,57,0,1,0.287,0,South,Dental,0.1153,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200151,CUST7514,2328.5,29,28,3,0,0.581,1,North,Health,0.3533,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200152,CUST7941,6006.49,33,173,4,0,0.089,1,South,Dental,0.8375,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200153,CUST4391,4040.79,34,136,1,0,0.428,0,North,Dental,0.188,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200154,CUST7016,6183.37,68,91,2,0,0.085,0,South,Health,0.4139,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200155,CUST2062,4860.07,74,96,0,0,0.256,0,Central,Dental,0.2168,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200156,CUST2331,783.29,68,28,2,0,0.523,0,West,Dental,0.1539,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200157,CUST5636,3923.41,29,144,1,0,0.619,1,Central,Accident,0.6019,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200158,CUST1255,9851.75,70,115,0,0,0.373,0,Central,Dental,0.72,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200159,CUST9053,4660.06,29,111,2,0,0.155,1,East,Dental,0.3773,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200160,CUST8409,4176.45,35,137,0,0,0.272,0,East,Health,0.2222,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200150,CUST1663,385.08,68,57,0,1,0.287,0,South,Dental,0.1115,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200151,CUST7514,2328.5,29,28,3,0,0.581,1,North,Health,0.3536,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200152,CUST7941,6006.49,33,173,4,0,0.089,1,South,Dental,0.8371,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200153,CUST4391,4040.79,34,136,1,0,0.428,0,North,Dental,0.1874,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200154,CUST7016,6183.37,68,91,2,0,0.085,0,South,Health,0.413,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200155,CUST2062,4860.07,74,96,0,0,0.256,0,Central,Dental,0.2171,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200156,CUST2331,783.29,68,28,2,0,0.523,0,West,Dental,0.1592,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200157,CUST5636,3923.41,29,144,1,0,0.619,1,Central,Accident,0.5998,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200158,CUST1255,9851.75,70,115,0,0,0.373,0,Central,Dental,0.725,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200159,CUST9053,4660.06,29,111,2,0,0.155,1,East,Dental,0.3746,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200160,CUST8409,4176.45,35,137,0,0,0.272,0,East,Health,0.2191,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200161,CUST7731,2365.42,67,144,0,0,0.11,0,East,Extended Benefits,0.0988,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200162,CUST6560,5912.89,70,172,0,0,0.227,0,North,Dental,0.5922,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200163,CUST8992,885.91,46,100,3,0,0.272,0,North,Dental,0.1782,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200164,CUST3502,1532.97,31,146,1,0,0.545,0,East,Health,0.1966,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200165,CUST1009,3719.79,30,43,2,0,0.208,0,West,Health,0.1547,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200162,CUST6560,5912.89,70,172,0,0,0.227,0,North,Dental,0.594,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200163,CUST8992,885.91,46,100,3,0,0.272,0,North,Dental,0.1812,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200164,CUST3502,1532.97,31,146,1,0,0.545,0,East,Health,0.2064,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200165,CUST1009,3719.79,30,43,2,0,0.208,0,West,Health,0.1516,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200166,CUST2605,2324.21,28,117,1,0,0.181,0,West,Extended Benefits,0.1451,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200167,CUST8651,3471.0,61,127,2,0,0.037,0,South,Dental,0.1275,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200168,CUST3393,5025.13,24,8,4,0,0.182,1,South,Extended Benefits,0.8001,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200169,CUST1395,6540.47,58,149,2,0,0.215,0,North,Dental,0.6552,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200170,CUST4627,12289.71,30,31,1,0,0.517,0,North,Dental,0.7593,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200168,CUST3393,5025.13,24,8,4,0,0.182,1,South,Extended Benefits,0.7993,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200169,CUST1395,6540.47,58,149,2,0,0.215,0,North,Dental,0.6524,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200170,CUST4627,12289.71,30,31,1,0,0.517,0,North,Dental,0.7558,Fraud Risk,High,2026-05-04,fraud_model_v1
 NEWCLM200171,CUST9445,2565.56,74,173,1,0,0.266,0,West,Health,0.155,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200172,CUST8554,8578.21,27,151,1,0,0.272,0,South,Extended Benefits,0.4098,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200173,CUST5465,3566.2,57,159,0,0,0.392,0,Central,Dental,0.4105,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200174,CUST5495,5144.69,58,147,2,0,0.198,0,West,Extended Benefits,0.5663,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200175,CUST7665,7947.54,52,108,1,0,0.138,1,North,Extended Benefits,0.7173,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200172,CUST8554,8578.21,27,151,1,0,0.272,0,South,Extended Benefits,0.41,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200173,CUST5465,3566.2,57,159,0,0,0.392,0,Central,Dental,0.4098,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200174,CUST5495,5144.69,58,147,2,0,0.198,0,West,Extended Benefits,0.5633,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200175,CUST7665,7947.54,52,108,1,0,0.138,1,North,Extended Benefits,0.718,Fraud Risk,High,2026-05-04,fraud_model_v1
 NEWCLM200176,CUST4152,2276.68,66,22,0,0,0.205,0,East,Extended Benefits,0.0969,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200177,CUST9684,7750.17,50,6,1,0,0.023,0,East,Health,0.7035,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200178,CUST2062,4625.84,59,134,0,0,0.277,0,South,Extended Benefits,0.2591,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200179,CUST9915,5524.62,33,85,0,0,0.383,0,South,Extended Benefits,0.6223,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200180,CUST6468,4727.56,28,122,1,1,0.271,0,South,Accident,0.7319,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200177,CUST9684,7750.17,50,6,1,0,0.023,0,East,Health,0.6991,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200178,CUST2062,4625.84,59,134,0,0,0.277,0,South,Extended Benefits,0.262,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200179,CUST9915,5524.62,33,85,0,0,0.383,0,South,Extended Benefits,0.6219,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200180,CUST6468,4727.56,28,122,1,1,0.271,0,South,Accident,0.7389,Fraud Risk,High,2026-05-04,fraud_model_v1
 NEWCLM200181,CUST6797,1935.98,69,91,2,0,0.127,1,West,Accident,0.215,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200182,CUST5729,4550.67,24,38,2,0,0.565,0,West,Health,0.2746,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200183,CUST1004,14298.63,30,68,1,0,0.206,0,Central,Dental,0.764,Fraud Risk,High,2026-05-04,fraud_model_v1
-NEWCLM200184,CUST5544,9368.47,51,110,0,0,0.144,0,West,Health,0.5437,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200182,CUST5729,4550.67,24,38,2,0,0.565,0,West,Health,0.2736,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200183,CUST1004,14298.63,30,68,1,0,0.206,0,Central,Dental,0.7681,Fraud Risk,High,2026-05-04,fraud_model_v1
+NEWCLM200184,CUST5544,9368.47,51,110,0,0,0.144,0,West,Health,0.5434,Normal,Medium,2026-05-04,fraud_model_v1
 NEWCLM200185,CUST1404,2064.02,59,113,0,0,0.103,0,South,Dental,0.0731,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200186,CUST6305,3050.36,21,148,2,0,0.662,0,Central,Accident,0.1498,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200187,CUST4719,3759.76,46,111,1,0,0.2,0,East,Health,0.1717,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200188,CUST3871,7357.45,52,77,1,0,0.244,0,North,Extended Benefits,0.3188,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200189,CUST2324,1881.57,48,104,2,0,0.654,0,East,Extended Benefits,0.1674,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200190,CUST9996,2161.86,50,163,0,0,0.414,0,South,Dental,0.1464,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200191,CUST1190,1957.48,37,158,0,0,0.761,0,East,Dental,0.1479,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200192,CUST5300,4794.7,33,102,2,0,0.5,0,Central,Health,0.4458,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200193,CUST3975,1584.97,43,144,0,0,0.359,0,South,Extended Benefits,0.1615,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200194,CUST4242,3134.68,63,40,2,0,0.264,0,Central,Accident,0.4414,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200195,CUST1512,3547.69,70,16,0,0,0.154,0,West,Dental,0.0938,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200187,CUST4719,3759.76,46,111,1,0,0.2,0,East,Health,0.1685,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200188,CUST3871,7357.45,52,77,1,0,0.244,0,North,Extended Benefits,0.3196,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200189,CUST2324,1881.57,48,104,2,0,0.654,0,East,Extended Benefits,0.1686,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200190,CUST9996,2161.86,50,163,0,0,0.414,0,South,Dental,0.149,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200191,CUST1190,1957.48,37,158,0,0,0.761,0,East,Dental,0.1491,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200192,CUST5300,4794.7,33,102,2,0,0.5,0,Central,Health,0.4486,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200193,CUST3975,1584.97,43,144,0,0,0.359,0,South,Extended Benefits,0.1658,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200194,CUST4242,3134.68,63,40,2,0,0.264,0,Central,Accident,0.4397,Normal,Medium,2026-05-04,fraud_model_v1
+NEWCLM200195,CUST1512,3547.69,70,16,0,0,0.154,0,West,Dental,0.0969,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200196,CUST6052,2943.83,71,84,1,0,0.264,0,South,Dental,0.1204,Normal,Low,2026-05-04,fraud_model_v1
-NEWCLM200197,CUST5858,1366.66,64,125,3,0,0.525,0,South,Dental,0.154,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200197,CUST5858,1366.66,64,125,3,0,0.525,0,South,Dental,0.1549,Normal,Low,2026-05-04,fraud_model_v1
 NEWCLM200198,CUST9058,2268.38,42,103,2,0,0.208,1,North,Extended Benefits,0.5226,Normal,Medium,2026-05-04,fraud_model_v1
-NEWCLM200199,CUST3838,3028.08,41,138,1,0,0.408,0,Central,Health,0.1838,Normal,Low,2026-05-04,fraud_model_v1
+NEWCLM200199,CUST3838,3028.08,41,138,1,0,0.408,0,Central,Health,0.1814,Normal,Low,2026-05-04,fraud_model_v1

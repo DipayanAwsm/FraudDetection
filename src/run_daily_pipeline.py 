@@ -1,0 +1,21 @@
+import subprocess
+import sys
+from datetime import datetime
+
+def run_step(name, command):
+    print(f"\n===== Running: {name} =====")
+    result = subprocess.run(command, shell=True)
+
+    if result.returncode != 0:
+        raise RuntimeError(f"{name} failed")
+
+    print(f"===== Completed: {name} =====")
+
+if __name__ == "__main__":
+    print(f"Daily fraud pipeline started at {datetime.now()}")
+
+    run_step("Model Retraining", "python src/train_model.py")
+    run_step("Batch Scoring", "python src/batch_score.py")
+    run_step("Model Monitoring", "python src/monitor_model.py")
+
+    print(f"Daily fraud pipeline completed at {datetime.now()}")
